@@ -8,6 +8,6 @@ function maxInArray(array) {
   return maxNumber;
 }
 
-let numbers = [1, 2, 3, 4, 5, 6];
+let numbers = [10, 100, 50, 20, 30];
 let maxNumberInArray = maxInArray(numbers);
 console.log("Maximum Number", maxNumberInArray);
